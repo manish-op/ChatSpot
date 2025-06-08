@@ -58,29 +58,6 @@ Join the chat room.
 Start messaging! All messages are broadcast to everyone in the room in real-time.
 
 
-
-## 📁 Project Structure
-
-
-chatspot/
-├── src/
-│ ├── main/
-│ │ ├── java/com/chatspot/
-│ │ │ ├── controller/
-│ │ │ ├── config/
-│ │ │ ├── model/
-│ │ │ └── ChatSpotApplication.java
-│ │ └── resources/
-│ │ ├── templates/
-│ │ │ └── chat.html
-│ │ └── application.properties
-└── pom.xml
-
-
-
-
-
-
 ---
 
 ## ⚙️ Setup & Run
