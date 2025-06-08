@@ -49,7 +49,7 @@ Make sure you have the following installed:
 ---
 
 
-🧪 Usage
+##🧪 Usage
 Enter a username on the login screen.
 password - @letmein123
 
